@@ -1,0 +1,97 @@
+<! HTML DOCTYPE>
+<html lang="pt-br">
+<cabeça>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=borda">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiro Site</title>
+</cabeça>
+    <h1 id="topo">Quais são as principais criptomoedas do mercado</h1>
+    <hr>
+    <h2> Quais são? </h2>
+    <Ul>
+        <li><a href="#cripto"> O que são criptomoedas? </a></li >
+        <li><a href="#bitoin"> Bitcoin </a></li >
+        <li><a href="#Ether"> Ether (ethereum) </a></li >
+        <li><a href="#Tether"> Tether </a></li >
+        <li><a href="#USD"> USD Coin </a></li >
+    </Ul>
+    <h2 id="cripto"> O que são criptomoedas?</h2>
+        <p> Antes de conhecer as criptomoedas mais relevantes do mercado, é interessante entender o conceito por trás desse termo. 
+            Ele se refere a moedas que só existem digitalmente e funcionam como códigos virtuais únicos. 
+        </p>
+
+        <p>
+            Entretanto, assim como o dinheiro físico (como o real ou dólar), elas podem ser usadas para realizar transferências e 
+            transações comerciais. A diferença é que as negociações acontecem apenas online, por meio de um dispositivo conectado à internet.
+            
+        </p>
+        <p>
+            Ademais, em regra, as criptomoedas são criadas a partir de uma tecnologia de ponta chamada <i>blockchain</i>  — um livro-razão público, 
+            imutável, compartilhável e descentralizado. Ou seja, as moedas digitais não são ligadas a uma economia específica. Consequentemente, 
+            sua cotação não se submete às leis de nenhum Governo e não seguem regulamentações de um Banco Central, por exemplo.
+        
+        </p>
+
+        <small><a href="#topo">(<=voltar para inicio)</a></small>
+
+    <h2 id="bitoin"> O Bitcoin</h2>
+        <p> O <strong style="color: blue;"> </style> Bitcoin (BTC) </strong>  é a moeda virtual mais conhecida do mundo e foi o primeiro sistema de 
+            pagamentos global descentralizado. Desenvolvido em 2008, ele teve como objetivo substituir o dinheiro de papel e acabar com a necessidade 
+            da influência de bancos para intermediar operações financeiras. </p>
+
+        <p>Para isso, o seu criador, sob pseudônimo Satoshi Nakamoto, utilizou a <i>blockchain</i> . Essa tecnologia passou a ser utilizada para 
+            registrar e validar as transações com a moeda em um sistema computacional complexo.</p>
+
+        <p>Entretanto, para que esse sistema funcione, é necessário utilizar diversos computadores disponibilizados por usuários ao redor do mundo. 
+            Desse modo, as máquinas resolvem cálculos matemáticos de alto nível <u>para registrar e validar as informações.</u></p>
+
+        <small><a href="#topo">(<=voltar para inicio)</a></small>
+
+    <h2 id="Ether"> Ether (ethereum)</h2>
+        <p> Primeiramente, é importante contextualizar a diferença entre <i>ether e ethereum</i> ether e ethereum, pois é comum a confusão entre as duas denominações. 
+            A primeira se refere a uma criptomoeda, enquanto a segunda remete à plataforma.. </p>
+
+        <p>Apesar de existir diferença entre os conceitos, o nome <u><strong style="color: blue;">ethereum</strong> </u>  também é usado popularmente para se referir à moeda. Ao contrário do bitcoin, criado única 
+            e exclusivamente para ser uma moeda digital, o ether foi desenvolvido para ser um ativo de pagamento da sua plataforma. </p>
+
+        <small><a href="#topo">(<=voltar para inicio)</a></small>
+
+
+    <h2 id="Tether"> Tether</h2>
+        <p>Em terceiro lugar, está o tether   <strong>(USDT).</strong>, Lançada em 2014, essa moeda virtual apresenta características distintas das demais. Conhecido como uma stablecoin (moeda estável), o 
+            USDT possui lastro em uma das principais moedas do mundo: o dólar americano. </p>
+
+        <p>Desse modo, os investidores contam com uma garantia e não se expõem às oscilações habituais dos criptoativos. Para isso, o tether mantém uma proporção 1:1 em relação à moeda estadunidense. 
+            Dessa forma, cada USDT apresenta um valor equivalente a um USD.</p>
+
+        <blockquote><i>"A metodologia adotada pela Tether Limited (empresa que desenvolveu o USDT) é a criação de reservas de dólares americanos. Também é válido mencionar que o tether funciona por meio de tokens, 
+            não sendo criado a partir de mineração."</i></blockquote>
+
+        <small><a href="#topo">(<=voltar para inicio)</a></small>
+
+   
+        <h2 id="USD"> USD Coin</h2>
+        <p>Lançado em 2018 na rede ethereum como um token de código aberto, o USD coin (USDC) é mais uma alternativa de stablecoin. Ele foi desenvolvido pela empresa Centre. Esta, por sua vez, é uma parceria entre 
+            a exchange Coinbase e a Circle, atuante na área de tecnologias ligadas às finanças. </p>
+
+        
+        <p> A garantia dessa criptomoeda também é o dólar americano, seguindo a mesma proporção de 1:1. Embora ainda apresente circulação e capitalização menores que o tether, 
+            o USD coin tem ganhado cada vez mais credibilidade entre investidores.</p>
+       
+            <p>Isso porque as reservas que compõem o lastro são auditadas por uma instituição independente todos os meses. Essa transparência ganha destaque diante 
+                de um cenário no qual a Tether Limited enfrentou denúncias e processos a respeito de suas reservas. creditos
+                <i><a href="https://renovainvest.com.br/blog/lista-de-criptomoedas-conheca-10-das-principais-moedas-digitais-do-mundo/#O_que_sao_criptomoedas" title="Criptomoedas" target="_blank">Renovar</i></a>. (Criptomoedas) </p>
+
+       
+        <small><a href="#topo">(<=voltar para inicio)</a></small>
+
+<rodapé>
+    <p>Autor: Francisco Carvalho</p>
+    <p>E-mail:<a href="francisco.dev2017@gmail.com">francisco.dev2017@gmail.com</a></p>
+
+</rodapé>
+<corpo>
+    
+</corpo>
+</.html>
